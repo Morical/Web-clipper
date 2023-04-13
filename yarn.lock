@@ -749,10 +749,10 @@
   dependencies:
     "@types/estree" "*"
 
-"@types/tldjs@^2.3.0":
-  version "2.3.0"
-  resolved "https://registry.npm.taobao.org/@types/tldjs/download/@types/tldjs-2.3.0.tgz"
-  integrity sha1-vJD1vR3zsVEjtnhFq7kHyw6Qlso=
+"@types/tldjs@^2.3.1":
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/@types/tldjs/-/tldjs-2.3.1.tgz#ad7a387356ac178d631d43f9113b782d9e1f24ed"
+  integrity sha512-BQR04zLE0ve2eNrqxXw/Qp/f6LxvNrj/4A8ZgdQi3SzbBqxFhleI7N4DS/mSjDnODrUaEGgoWg4grAZR1kVj8w==
 
 "@types/turndown@^5.0.0":
   version "5.0.0"
